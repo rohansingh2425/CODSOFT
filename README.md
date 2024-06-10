@@ -1,7 +1,7 @@
 # CODSOFT
 This is the CodSoft Java Internship repository! This repository documents the assignments I have done during my internship journey. Here, I'll be showcasing a set of tasks to enhance my skills and knowledge in Java progamming.
 
-## TASKS CONTENT:
+## TASK CONTENT:
 
 ### TASK 1 - Number Game
 - Generate a random number between 1-100, ask the user to guess the number, and provide feedback.
