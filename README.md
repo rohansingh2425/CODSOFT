@@ -1,5 +1,5 @@
 # CODSOFT
-This is the CodSoft Java Internship repository! This repository documents the assignments I have done during my internship journey. Here, I'll be showcasing a set of tasks to enhance my skills and knowledge in Java progamming.
+This is CodSoft Java Internship repository! This repository documents the assignments I have done during my internship journey. Here, I'll be showcasing a set of tasks to enhance my skills and knowledge in Java progamming.
 
 ## TASK CONTENT:
 
