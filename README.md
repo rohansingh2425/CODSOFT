@@ -12,7 +12,7 @@ This is my CodSoft Java Internship repository! This repository documents the ass
 - Calculate total marks and average percentage.
 - Display grades.
 
-### Task no. 3 - ATM Interface
+### TASK no. 3 - ATM Interface
 - Create an ATM class.
 - Add withdraw, deposit, and checkBalance methods.
 - Implement input and connect with user's bank account.
