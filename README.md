@@ -17,3 +17,10 @@ This is my CodSoft Java Internship repository! This repository documents the ass
 - Add withdraw, deposit, and checkBalance methods.
 - Implement input and connect with user's bank account.
 - Give options to the user to access the methods.
+
+### TASK no. 4 - Quiz Application with Timer
+- Store quiz questions along with multiple-choice options and correct answers.
+- A timer is set for each question to limit the time to answer.
+- Presents one question at a time with multiple-choice options.
+- Allow users to select an option and submit their answer within the given time.
+- Keep track of the user's score based on correct answers. Result Screen: Display the final score and a summary of correct/incorrect answers.
